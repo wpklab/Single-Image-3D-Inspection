@@ -33,7 +33,7 @@ Manufacturing inspection requires physically accurate measurements of mechanical
 
 ## Dataset
 
-Representative synthetic and physical-part image data from this study are publicly available on Kaggle:
+Representative synthetic and physical-part image datasets used in this study are publicly available on Kaggle:
 
 **Dataset link: https://www.kaggle.com/datasets/hosseinkabir/synthetic-real-dataset**
 

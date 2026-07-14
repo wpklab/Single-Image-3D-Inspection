@@ -33,11 +33,11 @@ Manufacturing inspection requires physically accurate measurements of mechanical
 
 ## Dataset
 
-A representative subset of the synthetic and physical-part image datasets used in this study is publicly available on Kaggle:
+Representative synthetic and physical-part image data from this study are publicly available on Kaggle:
 
 **Dataset link: https://www.kaggle.com/datasets/hosseinkabir/synthetic-real-dataset**
 
-The subset includes:
+The dataset includes:
 
 - Synthetic 2D views rendered from CAD models over the 132-position azimuth-polar pose grid (12 azimuth × 11 polar angles), with co-registered depth and surface-normal maps
 - Digital-camera photographs of small physical parts acquired on the robotic stage at the same 132 rotational positions

@@ -4,8 +4,8 @@ This repository contains the synthetic-data generation, data-processing, image-s
 
 > **Deep Learning Enables 3D Manufacturing Inspection from a Single Image**
 > Hossein Kabir, Miles V. Bimrose, Charles T. Whealton, Christopher H. Conway, Austin F. Martin, Adrian K. Jackson, Asif Rashid, Weixuan Zheng, William P. King
-> *Grainger College of Engineering,
-> University of Illinois Urbana-Champaign*
+>
+> *Grainger College of Engineering, University of Illinois Urbana-Champaign*
 
 ## Overview
 
